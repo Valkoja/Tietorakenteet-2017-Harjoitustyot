@@ -1,0 +1,11 @@
+if (this = that)
+{
+    std::cout << "Testailua \"yms \" jne" << std::endl;
+
+    /* Monen
+       Rivin
+       Kommentti */
+
+    // kommentti
+    return 0;
+}
